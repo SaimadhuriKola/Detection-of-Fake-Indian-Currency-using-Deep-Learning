@@ -110,12 +110,10 @@ n_jobs=-1,verbose=1
 
 ### Sample Output
 
-
-![Home Page]("C:\Users\SAI MADHURI KOLA\OneDrive\Pictures\Screenshots\outputs\Home page.png")
-
-
-
-
+Attached output screenshots in main branch named 
+-Home page.png
+-Real Currency Detection.png
+-Fake Currency Detection.png
 
 ## Authors
 
