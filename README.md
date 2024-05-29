@@ -1,6 +1,8 @@
 # Indian-Currency-Classification
 
-An application for classifying new indian currency notes using **random forest** classifier. It is implemented with the help of **opencv** and **scikit-learn** library. The dataset used for training consists of **1050** images of new currency notes(INR). It includes denominations of **10, 20, 50, 100, 200, 500 and 2000** rupees notes(i.e. 7 classes with 150 each).
+An application for classifying new indian currency notes using CNN algorithm , a deep learning technique. It is implemented with the help of **opencv** and **scikit-learn** library. The dataset used for training consists of **1050** images of new currency notes(INR). It includes denominations of **10, 20, 50, 100, 200, 500 and 2000** rupees notes(i.e. 7 classes with 150 each).
+
+link for dataset: https://www.kaggle.com/datasets/jayaprakashpondy/indian-currency-dataset
 
 Here we use **hu moments**(shape), **haralick**(texture) and **colour histogram**(colour) as global features and **bag of visual words**(BOVW) with **SIFT** as a local feature descriptor. It is then trained using CNN algorithm (Deep Learning Technique).
 
