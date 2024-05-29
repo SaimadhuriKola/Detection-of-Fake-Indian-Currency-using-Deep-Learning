@@ -110,9 +110,10 @@ n_jobs=-1,verbose=1
 
 ### Sample Output
 
-Home page.png
-Real Currency Detection.png
-Fake Currency Detection.png
+
+![Home Page]("C:\Users\SAI MADHURI KOLA\OneDrive\Pictures\Screenshots\outputs\Home page.png")
+
+
 
 
 
