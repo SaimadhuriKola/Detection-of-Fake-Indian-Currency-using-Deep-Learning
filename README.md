@@ -110,15 +110,18 @@ n_jobs=-1,verbose=1
 
 ### Sample Output
 
-![Screenshot](results/result.png)
+Home page.png
+Real Currency Detection.png
+Fake Currency Detection.png
 
-## Versioning
 
-Version 1.0
 
 ## Authors
 
-- Anil Sathyan
+- Sai Madhuri K
+- Jyothi L
+- Akhil K
+- Guna Koushal N
 
 ## Acknowledgments
 
