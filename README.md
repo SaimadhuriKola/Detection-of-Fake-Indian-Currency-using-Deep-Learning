@@ -2,9 +2,9 @@
 
 An application for classifying new indian currency notes using **random forest** classifier. It is implemented with the help of **opencv** and **scikit-learn** library. The dataset used for training consists of **1050** images of new currency notes(INR). It includes denominations of **10, 20, 50, 100, 200, 500 and 2000** rupees notes(i.e. 7 classes with 150 each).
 
-Here we use **hu moments**(shape), **haralick**(texture) and **colour histogram**(colour) as global features and **bag of visual words**(BOVW) with **SIFT** as a local feature descriptor. It is then trained using a random forest classifier using scikit-learn library.
+Here we use **hu moments**(shape), **haralick**(texture) and **colour histogram**(colour) as global features and **bag of visual words**(BOVW) with **SIFT** as a local feature descriptor. It is then trained using CNN algorithm (Deep Learning Technique).
 
-Finally during **inference**, we extract the **rectangular ROI's** from the preprocessed image using opencv(cropped rotated contours) and **predicts** the class labels using the trained random forest **model**.
+Finally during **inference**, we extract the **rectangular ROI's** from the preprocessed image using opencv(cropped rotated contours) and **predicts** the class labels using the trained cnn  **model**.
 
 
 ## Dependencies
