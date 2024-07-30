@@ -134,4 +134,4 @@ Attached output screenshots in main branch named
 
 ```
 
-This `README.md` file now provides a comprehensive overview of your project, including the project description, methodology, dependencies, demo instructions, training results, sample output, versioning, authorship, and acknowledgments.
+This `README.md` file now provides a comprehensive overview of my project, including the project description, methodology, dependencies, demo instructions, training results, sample output, versioning, authorship, and acknowledgments.
